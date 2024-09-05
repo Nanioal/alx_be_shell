@@ -1,0 +1,1 @@
+this is exercise for shell scripting
